@@ -1,3 +1,3 @@
 # cv-page
 
-[https://ikonvpalto.github.io/cv-page/](https://ikonvpalto.github.io/cv-page/)
+[https://kvpbldsck.github.io/cv-page/](https://kvpbldsck.github.io/cv-page/)
